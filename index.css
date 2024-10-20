@@ -1,0 +1,17 @@
+h1{
+   color: darkred;
+   font-size: larger;
+   font-weight: bolder;
+   font-style: italic;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cl{
+    color: crimson;
+    background-color: azure;
+}
+
+#test {
+    font-size: 20px;
+    color: darkkhaki;
+    font-family: 'Times New Roman', Times, serif;
+}
